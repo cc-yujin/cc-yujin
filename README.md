@@ -18,3 +18,6 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+
+
+![Yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cc-yujin&show_icons=true&theme=radical)
